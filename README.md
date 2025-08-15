@@ -15,54 +15,17 @@
 This project is basically a todo app, where users will be able to list down the tasks they wish to do. The goal for the project is that one day, somewhere, all the people in a coffee shop, with a list of tasks to do, will be addicted to this and you'll be part of the Impact 🙂.
 
 
-**All PRs To Be Merged From 1st October 2022**
-
 ## Proposed UX Design
 
 Design link:
 [Figma Design](https://www.figma.com/file/2DdRHkoszU7lxTvcyBchJ8/React-TODO?node-id=0%3A1)
 
-## Create issue
 
-If you want to create a new issue make sure to read [report_bug.md](.github/ISSUE_TEMPLATE/bug_report.md)
-
-## Contributing
-
-Contributions are always welcomed!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
 
 ## Technologies Used
 
 - JavaScript
 
-## Installing and Running
-
-- Fork the repo.
-- Clone repo & switch to the folder by running the command below in your terminal:
-
-```console
-$ git clone https://github.com/your_username/coffee-tasks.git
-$ cd coffee-task
-```
-
-> Now you are in your cloned repo of coffee-task.
-
-- Install all packages .
-
-```console
-$ npm install
-```
-
-- Run app on localhost.
-
-```console
-$ npm run dev
-```
-
-🥳 YAY! Now you can see coffee-task in your localhost port.
 
 ## Contributors
 
